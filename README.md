@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @artsbysree
-- 👀 I’m interested in designing
+- 👋 Hi, I’m sree
+- 👀 I’m interested in Graphic designing
 - 🌱 I’m currently learning motion graphics
 - 💞️ I’m looking to collaborate on graphic designing
 - 📫 you can reach me through mail
