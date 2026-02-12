@@ -20,8 +20,20 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=artsbysree&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=artsbysree&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Featured Projects
+
+- 🌌 **Qubitrix – Quantum Learning Platform**  
+  https://github.com/artsbysree/Qubitrx-quantum-labs
+
+- 🤖 **AcadeAI – AI Teaching Assistant MVP**  
+  https://github.com/artsbysree/acadeai-mvp
+
+- 📚 **GSoC Portfolio 2026**  
+  https://github.com/artsbysree/gsoc-portfolio
+
+- 🧠 **LeetCode Practice Repository**  
+  https://github.com/artsbysree/leetcode
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=artsbysree&icon=0&color=0)](https://visitcount.itsvg.in)
