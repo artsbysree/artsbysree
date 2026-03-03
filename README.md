@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Sree Divya (Lucky)</h1>
+<h1 align="center">Hi 👋 I'm Sree Divya</h1>
 <h3 align="center">🚀 Quantum EdTech Builder | Hackathon Winner | Team Lead</h3>
 
 ---
